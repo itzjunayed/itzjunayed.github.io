@@ -492,3 +492,23 @@ img{
     transform: rotate(-180deg);
 }
 
+
+
+.portfolio__social-icon{
+    font-size: 1.7rem;
+    color: var(--text-color);
+}
+
+.portfolio__social-icon:hover{
+    color: var(--first-color);
+}
+
+.portfolio__social{
+    text-align: center;
+}
+
+.portfolio__resume{
+    text-align: center;
+}
+
+
